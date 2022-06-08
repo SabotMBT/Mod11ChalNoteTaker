@@ -52,4 +52,5 @@
 
 ## Walkthrough
 
-- A video walkthrough is available here: placeholder
+- ![Untitled_ Jun 8, 2022 2_33 PM](https://user-images.githubusercontent.com/104104069/172711889-3890dd9b-0ab2-4b2f-b22a-b6ae4956eb8e.gif)
+
